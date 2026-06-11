@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Ethan 👋
 
-<!--
-**Durian-gr3y/Durian-gr3y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Research Associate at Grooming Centre, a Lagos-based NGO that is into Microfinance Services,
+working at the intersection of **data analysis** and **automation**.
 
-Here are some ideas to get you started:
+I build practical automation solutions using Microsoft Power Automate to solve real 
+operational gaps — like the staff recognition workflow in this profile, which sends 
+personalised birthday and work anniversary emails by automatically scanning a staff 
+directory, with no manual process behind it before I built it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I hold a **DataCamp Associate Data Scientist in Python** certification and I'm 
+currently working through **WorldQuant's Applied Data Science Lab**, building toward 
+a focus on data analysis and automation for the Nigerian NGO and microfinance sector.
+
+📌 **Featured project:** [Staff Recognition Automation](https://github.com/Durian-gr3y/staff-recognition-automation)
+
+🔗 **Connect with me on [LinkedIn](https://www.linkedin.com/in/ethan-aoko)**
