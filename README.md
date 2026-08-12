@@ -10,7 +10,7 @@ directory, with no manual process behind it before I built it.
 
 I hold a **DataCamp Associate Data Scientist in Python** certification and I'm 
 currently working through **WorldQuant's Applied Data Science Lab**, building toward 
-a focus on data analysis and automation for the Nigerian NGO and microfinance sector.
+a focus on data analysis and automation.
 
 📌 **Featured project:** [Staff Recognition Automation](https://github.com/Durian-gr3y/staff-recognition-automation)
 
